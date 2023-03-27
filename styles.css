@@ -29,16 +29,25 @@ font-size: 40px;
  }
  .columna2{
     width: 100%;
-    background-color: turquoise;
+    background-color: rgb(64, 224, 208);
     text-align: center;
  }
  .columna3{
-    width: 50%;
-    padding: 0px;
- }
+   width: 50%;
+   }
 .columna50{
    width: 50%;
+   background-color: rgba(0, 0, 0, 0.184);
 }
 .columna50-2{
    width: 50%;
+}
+.columna100{
+   width: 100%;
+   text-align: center;
+   background-color: black;
+   color: white;
+}
+.cl1{
+   color: azure;
 }
