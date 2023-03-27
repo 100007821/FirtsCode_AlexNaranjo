@@ -1,3 +1,8 @@
+*{
+   box-sizing: border-box;
+}
+
+
 .foto {
 background-image: url(imagenes/header.jpg);
 width: 100%;
@@ -31,6 +36,9 @@ font-size: 40px;
     width: 50%;
     padding: 0px;
  }
- .columna4{
-   width: 33%;
- }
+.columna50{
+   width: 50%;
+}
+.columna50-2{
+   width: 50%;
+}
