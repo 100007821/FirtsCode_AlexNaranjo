@@ -13,3 +13,24 @@ text-align: center;
 font-family: 'Inter', sans-serif;
 font-size: 40px;
 }
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.columna1{
+    width: 33%;
+    text-align: center;
+ }
+ .columna2{
+    width: 100%;
+    background-color: turquoise;
+    text-align: center;
+ }
+ .columna3{
+    width: 50%;
+    padding: 0px;
+ }
+ .columna4{
+   width: 33%;
+ }
