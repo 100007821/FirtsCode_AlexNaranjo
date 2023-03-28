@@ -1,8 +1,6 @@
 *{
    box-sizing: border-box;
 }
-
-
 .foto {
 background-image: url(imagenes/header.jpg);
 width: 100%;
@@ -51,3 +49,31 @@ font-size: 40px;
 .cl1{
    color: azure;
 }
+.columna0{
+   width: 100%;
+   text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+   .foto {
+     height: 50vh;
+     font-size: 30px;
+   }
+   .columna1 {
+     width: 50%;
+   }
+   .columna2 {
+     height: 250px;
+   }
+   .columna3 {
+     width: 100%;
+   }
+   .columna50 {
+     height: 150px;
+   }
+   .columna50-2 {
+     height: 150px;
+     width: 100%;
+   }
+ }
+ 
